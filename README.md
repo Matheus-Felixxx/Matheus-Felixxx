@@ -6,7 +6,7 @@
 - 📒 Estudando **CSS3** com dedicação.
 - 💼 Desenvolvendo projetos e aprendendo na prática.
 - ✉️ Entre em contato: **matheusfelixf862@gmail.com**
-- 🌐 [Veja meu portfólio](https://portfolio-felixxx.vercel.app)
+- 🌐 [Veja meu portfólio](https://portifolio-felixxx.vercel.app/)
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🌐 Minhas redes:
 
 <div align="center">
-  <a href="https://portfolio-felixxx.vercel.app">
+  <a href="https://portifolio-felixxx.vercel.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/matheuus_felix/">
